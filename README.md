@@ -18,7 +18,7 @@ First I had to build simple HTML file, then I used CSS for adding style and layo
 
 This web page shows basic information about HTML, CSS, Git, and JavaScript and shows how I implemented it into my project
 
-![alt text](assets\my_webpage.png)
+![webpage photo](assets/my_webpage.png)
 
 ## Credits
 
